@@ -2,6 +2,8 @@
 
 Requirements python3
 
+[state_map.json](state_map.json) is based on the wikipedia [electoral votes chronological data](https://en.wikipedia.org/wiki/United_States_Electoral_College#Chronological_table)
+
 
 Usage:
 
